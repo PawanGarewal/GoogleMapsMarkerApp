@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Google Maps Marker</string>
+    <string name="search_for_employee">Search for Employee</string>
+    <string name="view_all_employees">View All Employees</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="search">Search</string>
+    <string name="person_details">Person Details</string>
+    <string name="enter_person_details">Enter Person Details</string>
+    <string name="delete">Delete</string>
+    <string name="fill_details">Fill details to save marker</string>
+    <string name="you_want_to_delete">Are you sure you want to delete this marker?</string>
+    <string name="confirm_delete">Confirm Deletion</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="address_not_found">Address not found</string>
+    <string name="lat_long_regular">Lat: %s\nLon: %s</string>
+
+    <string name="lat_long_values"><![CDATA[<b>Lat:</b> %s<br/><b>Lon:</b> %s]]></string>
+    <string name="lat_long_address_values"><![CDATA[<b>Lat:</b> %s<br/><b>Lon:</b> %s<br/><b>Address:</b> %s]]></string>
+    <string name="name_address_values"><![CDATA[<b>Name:</b> %s<br/><b>Address:</b> %s]]></string>
+    <string name="all_saved_markers">All Saved Markers</string>
+    <string name="no_saved_markers">No saved markers</string>
+    <string name="name">Name:</string>
+    <string name="name_">Name</string>
+    <string name="address">Address:</string>
+    <string name="address_">Address</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string name="lat_long">Lat Long</string>
+    <string name="relation">Relation</string>
+    <string name="age">Age</string>
+</resources>
